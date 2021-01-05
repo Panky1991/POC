@@ -8,7 +8,7 @@ public class HelloWorldController {
 	
 	@GetMapping(path="/")
 	public String sayHello() {
-		return "Hello!! from FS Tools";
+		return "Hello!! POC Project";
 	}
 
 }
